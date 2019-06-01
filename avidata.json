@@ -1,0 +1,61 @@
+[{
+        "title": "H&M",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/H%26M-Logo.svg/709px-H%26M-Logo.svg.png",
+        "price": "? 20%off"
+    },
+{
+        "title": "Cadbury Dairy Milk",
+        "image": "https://api.androidhive.info/json/movies/shape_of_water.jpg",
+        "price": "? 30%off"
+    },
+    {
+        "title": "Baahubali: The Conclusion",
+        "image": "https://api.androidhive.info/json/movies/baahubali2.jpg",
+        "price": "? 20%off"
+    },
+    {
+        "title": "Thor: The Ragnarok",
+        "image": "https://api.androidhive.info/json/movies/thor_ragnarok.jpg",
+        "price": "? 20%off"
+    },
+    {
+        "title": "Justice League",
+        "image": "https://api.androidhive.info/json/movies/justice_league.jpg",
+        "price": "? 20%off"
+    },
+    {
+        "title": "Coco",
+        "image": "https://api.androidhive.info/json/movies/coco.jpg",
+        "price": "? 20%off"
+    },
+    {
+        "title": "Jumanji: Welcome To The Jungle",
+        "image": "https://api.androidhive.info/json/movies/jumanji.jpg",
+        "price": "? 20%off"
+    },
+    {
+        "title": "Murder On The Orient Express",
+        "image": "https://api.androidhive.info/json/movies/murder_on_express.jpg",
+        "price": "? 20%off"
+    },
+    {
+        "title": "Spider-Man: Homecoming",
+        "image": "https://api.androidhive.info/json/movies/spiderman_homecoming.jpg",
+        "price": "? 20%off"
+    },
+    {
+        "title": "Ferdinand",
+        "image": "https://api.androidhive.info/json/movies/ferdinand.jpg",
+        "price": "? 20%off"
+    },
+    {
+        "title": "The Disaster Artist",
+        "image": "https://api.androidhive.info/json/movies/disaster_artist.jpg",
+        "price": "? 20%off"
+    },
+    {
+        "title": "Lady Bird",
+        "image": "https://api.androidhive.info/json/movies/lady_bird.jpg",
+        "price": "? 20%off"
+    }
+    ]
